@@ -1,6 +1,6 @@
 import random
 def devCredits():
-    print('Coded by Ethan Barnes\nstarted July 22nd\nended August 2nd')
+    print('Coded by Ethan Barnes\nstarted July 28th\nended August 2nd')
 
 def mainMenu():
     print('MAIN MENU')
