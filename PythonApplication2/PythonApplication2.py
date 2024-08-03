@@ -3,6 +3,7 @@ def devCredits():
     print('Coded by Ethan Barnes\nstarted July 22nd\nended August 2nd')
 
 def mainMenu():
+    print('MAIN MENU')
     match input("Enter Start or Credits:"):
         case 'credits':
             devCredits()
